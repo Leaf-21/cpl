@@ -1,0 +1,3 @@
+D:/CLionProjects/cpl/2024-6-data-types/brackets/cmake-build-debug/CMakeFiles/brackets.dir
+D:/CLionProjects/cpl/2024-6-data-types/brackets/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CLionProjects/cpl/2024-6-data-types/brackets/cmake-build-debug/CMakeFiles/rebuild_cache.dir
