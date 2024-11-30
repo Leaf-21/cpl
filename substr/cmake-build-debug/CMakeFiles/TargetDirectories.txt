@@ -1,0 +1,3 @@
+D:/CLionProjects/cpl/2024-7-pointers-arrays/substr/cmake-build-debug/CMakeFiles/substr.dir
+D:/CLionProjects/cpl/2024-7-pointers-arrays/substr/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CLionProjects/cpl/2024-7-pointers-arrays/substr/cmake-build-debug/CMakeFiles/rebuild_cache.dir
