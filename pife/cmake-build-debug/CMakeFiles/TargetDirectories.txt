@@ -1,0 +1,3 @@
+D:/CLionProjects/cpl/2024-7-pointers-arrays/pife/cmake-build-debug/CMakeFiles/pife.dir
+D:/CLionProjects/cpl/2024-7-pointers-arrays/pife/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CLionProjects/cpl/2024-7-pointers-arrays/pife/cmake-build-debug/CMakeFiles/rebuild_cache.dir
