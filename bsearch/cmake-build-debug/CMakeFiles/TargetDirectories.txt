@@ -1,0 +1,3 @@
+D:/CLionProjects/CPL/2024-9-double-pointers-struct/bsearch/cmake-build-debug/CMakeFiles/bsearch.dir
+D:/CLionProjects/CPL/2024-9-double-pointers-struct/bsearch/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CLionProjects/CPL/2024-9-double-pointers-struct/bsearch/cmake-build-debug/CMakeFiles/rebuild_cache.dir
